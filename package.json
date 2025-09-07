@@ -27,7 +27,6 @@
   "bugs": {
     "url": "https://github.com/hijiangtao/glmaps/issues"
   },
-  "homepage": "https://github.com/hijiangtao/glmaps#readme",
   "dependencies": {
     "@deck.gl/experimental-layers": "^6.4.0",
     "d3": "^5.8.2",
